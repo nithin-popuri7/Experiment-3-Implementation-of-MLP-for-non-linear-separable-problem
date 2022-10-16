@@ -120,6 +120,7 @@ predict(w1,w2,test)
 
  ## Output:
  ![github.logo](Exp3.png)
+ 
  ![github.logo](Exp3.1.png)
 
 ## RESULT:
